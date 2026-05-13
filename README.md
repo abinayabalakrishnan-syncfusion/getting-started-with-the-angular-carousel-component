@@ -1,6 +1,5 @@
 # Getting Started with the Angular Carousel Component
 
-**Repository Description**  
 This repository contains a quick‑start Angular sample that demonstrates how to integrate and configure the Syncfusion Angular Carousel component in an Angular application.
 
 A quick‑start Angular project that shows how to add the Angular Carousel component to an Angular app. It explains how to bind a data source, change indicator types, hide indicators and navigation buttons, and customize the visibility of carousel navigators.
